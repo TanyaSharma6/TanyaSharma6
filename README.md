@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **TanyaSharma6/TanyaSharma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi there 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Tanya</h1> 
 <h3 align="center">I am a Software Engineer and Java Developer with over 1.5+ years of experience.</h3>
 
@@ -36,7 +36,7 @@ JSP.
 - Experience in working with Agile environment.
 - Good Exposure of SDLC.
 
-- :mailbox: prashant.bag14@gmail.com
+- :mailbox: tanyasharmaaa79@gmail.com
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-sharma-7026851b5/) 
